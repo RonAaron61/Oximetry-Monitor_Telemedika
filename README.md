@@ -1,6 +1,6 @@
 # Oximetry-Monitor_Telemedika
 
-For Engrish doc [a relative link](README-en.md)
+For English [documentation](README-en.md)
 
 Oximetry dan BPM Monitoring berbasis IoT
 
