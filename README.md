@@ -1,11 +1,13 @@
 # Oximetry-Monitor_Telemedika
 
+For Engrish doc [a relative link](README-en.md)
+
 Oximetry dan BPM Monitoring berbasis IoT
 
 ## Deskripsi
 Melakukan pembacaan oximetry dan BPM secara _realtime_ menggunakan alat pembaca dan data dikirimkan ke database untuk kemudian dibaca oleh client/user
 
-**Alat pembaca/sensor** terdiri dari Wemos D1 R1 mini sebagai mikrokontroler, MAX3100 sebagai sensor, modul cas baterai, dan baterai Li-Ion. Alat kemudian menggunakan case dengan di 3D print bahan .....
+**Alat pembaca/sensor** terdiri dari Wemos D1 R1 mini sebagai mikrokontroler, MAX03100 sebagai sensor, modul cas baterai, dan baterai Li-Ion. Alat kemudian menggunakan case dengan di 3D print bahan .....
 
 **Database** menggunakan google Firebase
 
