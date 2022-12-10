@@ -16,7 +16,7 @@ Melakukan pembacaan oximetry dan BPM secara _realtime_ menggunakan alat pembaca 
 ## GUI
 
 Library yang dibutuhkan:
-- customtkinter
+- customtkinter (https://github.com/TomSchimansky/CustomTkinter/wiki/AppearanceMode)
 - firebase (https://github.com/ozgur/python-firebase)
 
 ## Alat
@@ -26,3 +26,5 @@ Library yang dibutuhkan:
 https://randomnerdtutorials.com/esp32-firebase-realtime-database/
 
 https://github.com/ozgur/python-firebase
+
+https://github.com/TomSchimansky/CustomTkinter/wiki/AppearanceMode
