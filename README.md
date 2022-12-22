@@ -16,10 +16,15 @@ Library yang dibutuhkan:
 - firebase (https://github.com/ozgur/python-firebase)
 
 ## Alat
+- Wemos D1 mini
+- Sensor MAX30100/30102
+- Baterai
+- Modul cas (TP 4056)
 
 Skema rangakaian:
 ![image](https://user-images.githubusercontent.com/105662575/209170958-75564051-75c8-47ca-8226-235822ba2568.png)
 *Jika ingin menggunakan sensor MAX30100 rangakain tidak jauh berbeda, hanya perlu memerhatikan sambungan pin saja
+
 ![image](https://user-images.githubusercontent.com/105662575/209171813-1a55ab80-e4c6-45f5-b320-b20f54b2ebac.png)
 
 rangakaian kemudian dipasangkan pada _case_ 3D print (saat ini belum dibuat) namun akan menyerupai seperti oximeter pada umunya dengan penempatan baterai dan modul pada sisi atas, dan _microcontroller_ dan sensor pada sisi bagian bawah
