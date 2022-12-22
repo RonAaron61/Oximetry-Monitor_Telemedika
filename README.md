@@ -23,7 +23,7 @@ Skema rangakaian:
 ![image](https://user-images.githubusercontent.com/105662575/209171813-1a55ab80-e4c6-45f5-b320-b20f54b2ebac.png)
 
 rangakaian kemudian dipasangkan pada _case_ 3D print (saat ini belum dibuat) namun akan menyerupai seperti oximeter pada umunya dengan penempatan baterai dan modul pada sisi atas, dan _microcontroller_ dan sensor pada sisi bagian bawah
-![oxxxxx](https://user-images.githubusercontent.com/105662575/209172616-8d1e4adc-9878-4e8e-a86f-10e55a85c4d4.png =250x250)
+![oxxxxx](https://user-images.githubusercontent.com/105662575/209172616-8d1e4adc-9878-4e8e-a86f-10e55a85c4d4.png | width=100)
 
 
 ## Beberapa jurnal yang membantu dalam pembuatan:
