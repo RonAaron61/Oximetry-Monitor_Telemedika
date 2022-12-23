@@ -6,7 +6,7 @@ from firebase import firebase
 import webbrowser
 import time as tm
 
-app_db = firebase.FirebaseApplication('https://telemedika-4cc14-default-rtdb.firebaseio.com/', None)
+app_db = firebase.FirebaseApplication('Masukan Link Firebase anda', None)
 
 customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme("blue")  # Themes: "blue" (standard), "green", "dark-blue"
