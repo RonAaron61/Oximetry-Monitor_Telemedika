@@ -16,11 +16,11 @@ MAX30105 particleSensor;
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "Zzzzzz..."
-#define WIFI_PASSWORD "zzzzzzzz"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
 
-#define API_KEY "AIzaSyCXXWnKUMlgqKBbT6OJ23x3ZmTFr_eze64"
-#define DATABASE_URL "https://telemedika-4cc14-default-rtdb.firebaseio.com/"
+#define API_KEY "MASUKAN API KEY ANDA"
+#define DATABASE_URL "LINK PROJECT FIREBASE ANDA"
 
 //Define Firebase Data object
 FirebaseData fbdo;
