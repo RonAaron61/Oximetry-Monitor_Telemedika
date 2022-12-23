@@ -1,1 +1,0 @@
-For English lang
