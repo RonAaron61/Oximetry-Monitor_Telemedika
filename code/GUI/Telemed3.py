@@ -382,10 +382,10 @@ class app(customtkinter.CTk):
 
         #About
         about = customtkinter.CTkLabel(tabview.tab("About"), text=
-        "Applikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Telemedika\nS-1 Teknik Biomedis, Fakultas Sains dan Teknologi, Universitas Airlangga"
+        "Applikasi ini dibuat untuk memenuhi tugas akhir mata kuliah Telemedika"
         , anchor="w")
         about.grid(row=0, column=0, padx=20, pady=(50,10))
-        about1 = customtkinter.CTkLabel(tabview.tab("About"), text="RonAaron\n\nTerima Kasih", anchor="w")
+        about1 = customtkinter.CTkLabel(tabview.tab("About"), text="\n\nTerima Kasih", anchor="w")
         about1.grid(row=1, column=0, padx=20, pady=(0,10))
         
 
